@@ -42,7 +42,6 @@
 ###The Problem
 - A variety of welfare state benefits are targeted to residents living on low incomes.<!-- .element: class="fragment" -->
 - Low-income community members face systemic barriers that prevent access to these entitlements (Shillington 2011).<!-- .element: class="fragment" -->
-- Trend towards "bureaucratic disentitlement" (Lipsky 1984)
 - Lack of access can have severe, negative impacts for those without adequate income prior to government transfers (social and financial exclusion, social determinants of health).<!-- .element: class="fragment" -->
 
 #VSLIDE
@@ -104,8 +103,14 @@
 #VSLIDE
 ###Noonan (2012)
 - Life-valuable materialist ethics<!-- .element: class="fragment" -->
+- "Life-value"<!-- .element: class="fragment" -->
+    - Instrumental: resources and connections to sustain life<!-- .element: class="fragment" -->
+    - Intrinsic: development and enjoyment of human capacities<!-- .element: class="fragment" -->
+
+#VSLIDE
 - Transformation from a system based on money-value to one based on life-value<!-- .element: class="fragment" -->
 - Life-valuable political practice in the here-and-now<!-- .element: class="fragment" -->
+    - “the struggle to build a new society is rooted in the life-valuable side of existing social institutions” (Noonan 2012:216)
 
 #VSLIDE
 ###Implications
@@ -114,7 +119,6 @@
     - Particular experiences vary with identity position / social location<!-- .element: class="fragment" -->
 
 #VSLIDE
-###Implications
 - Which strategies are employed by non-profit access to benefits programs (affirmation / transformation)?<!-- .element: class="fragment" -->
 - Are access to benefits programs the most life-valuable alternative available to non-profits?<!-- .element: class="fragment" --> 
 
@@ -126,8 +130,70 @@
 
 #HSLIDE
 ## Socioeconomic Justice through the Welfare State
+- Is the welfare state an effective lever for justice and life-value?<!-- .element: class="fragment" --> 
+- Is access to the current complement of welfare state benefits sufficient?<!-- .element: class="fragment" -->  
 
 #VSLIDE
+### Marshall (1949) - Social Citizenship
+- Normative statement for social citizenship through the welfare state<!-- .element: class="fragment" --> 
+- "the right to a modicum of economic welfare and security" (1950:11)<!-- .element: class="fragment" -->
+- "the right to share to the full in the social heritage and to live
+the life of a civilised being according to the standards prevailing in the society" (1950:11)<!-- .element: class="fragment" -->
+
+### Liberal Welfare State
+- Does not grant and protect the rights of social citizenship<!-- .element: class="fragment" -->
+- Poor laws / principle of "less eligibility" (Piven and Cloward 1993:34-35)<!-- .element: class="fragment" -->
+- Measures of last resort rather than rights<!-- .element: class="fragment" -->
+
+### Welfare State as Social Control (Piven and Cloward 1993)
+- Welfare state function to regulate the supply of labour<!-- .element: class="fragment" -->
+- Expansion in response to political turmoil rather than social need<!-- .element: class="fragment" -->
+- Contraction once order and conditions for accumulation are restored<!-- .element: class="fragment" -->
+
+## Inequalities within the Welfare State
+- Fiscal welfare vs. social welfare (Abramovitz 1983/2001; Titmuss 1965).<!-- .element: class="fragment" -->
+- Social insurance vs. social assistance (Olsen 2002; Gordon 1994)<!-- .element: class="fragment" -->
+- The latter are:<!-- .element: class="fragment" -->
+    - Less generous<!-- .element: class="fragment" -->
+    - More controlling<!-- .element: class="fragment" -->
+    - Stigmatized in public discourse<!-- .element: class="fragment" -->
+
+## Axes of Inequality
+- Gender (Gordon 1994; Piven and Cloward 1993; Abramovitz 1988; Morgen, Acker, and Weight 2009)
+- 'Race' and ethnicity (Piven and Cloward 1993; Quadagno 1994)
+- Indigeneity (MacDonald 2011)
+- Citizenship status and duration of residency
+
+#VSLIDE
+
+## Summary
+- Liberal welfare benefits ≠ social citizenship<!-- .element: class="fragment" -->
+- Benefits are insufficient to sustain life<!-- .element: class="fragment" -->
+- Social welfare benefits can subject recipients to disempowering and stigmatizing treatment<!-- .element: class="fragment" -->
+- Structural inequalities endure<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+### Implications
+- Contribution of non-profit-mediated programs to social justice will vary according to:<!-- .element: class="fragment" -->
+    - benefits accessed<!-- .element: class="fragment" -->
+    - demographic groups gaining access<!-- .element: class="fragment" -->
+- Potential for unintended harms resulting from inclusion as benefit recipients<!-- .element: class="fragment" -->
+
+#VSLIDE
+- If increased access is not enough, also need to work for more equitable redistribution
+- What strategies could be effective in pushing the state to assume greater responsibility for social citizenship?<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Future Reading
+- Gough, Ian. 1979. *The Political Economy of the Welfare State.* 
+- Offe, Claus. 1984. *Contradictions of the Welfare State.* 
+- Wacquant, Loïc. 2009. *Punishing the Poor: The Neoliberal Government of Social Insecurity.*
+
+#VSLIDE
+- Social assistance through Indigenous and Northern Affairs Canada
+- Insufficiency of social welfare benefits
+- Guaranteed Annual Income 
 
 ## Socioeconomic Justice through the Shadow State
 
