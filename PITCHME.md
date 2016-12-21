@@ -14,13 +14,6 @@
 
 #VSLIDE
 
-## Methods
-- Literature review<!-- .element: class="fragment" -->
-
-- Key informant interviews with service providers<!-- .element: class="fragment" -->
-
-#VSLIDE
-
 ## Research Questions
 
 - What is the theory of change underlying non-profit access to benefits programs?<!-- .element: class="fragment" -->
@@ -28,6 +21,13 @@
 - How can non-profit access to benefits programs contribute to socioeconomic justice?<!-- .element: class="fragment" -->
 
 - Is government investment in non-profit access to benefits programs a sign of progress towards socioeconomic justice, or evidence of the offloading of public responsibility for social welfare?<!-- .element: class="fragment" -->
+
+#VSLIDE
+
+## Methods
+- Literature review<!-- .element: class="fragment" -->
+
+- Key informant interviews with service providers<!-- .element: class="fragment" -->
 
 #VSLIDE
 
@@ -46,11 +46,14 @@
 
 #VSLIDE
 
-- The problem
+###The Problem
+- A variety of welfare state benefits are targeted to residents living on low incomes.<!-- .element: class="fragment" -->
+- Low-income community members face systemic barriers that prevent access to these entitlements (Shillington 2011).<!-- .element: class="fragment" -->
+- Lack of access to benefits can have severe negative impacts for those without adequate income prior to government transfers (social and financial inclusion, social determinants of health).<!-- .element: class="fragment" -->
 
 #VSLIDE
-
-- The remedy
+###The Remedy of Access to Benefits Programs
+- 
 
 #VSLIDE
 
