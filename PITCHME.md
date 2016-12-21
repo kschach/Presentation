@@ -321,36 +321,36 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 #### Social Justice and Social Work
-- Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*<!-- .element: class="reference" -->
-- Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.* <!-- .element: class="reference" -->
+-<!-- .element: class="reference" --> Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
+-<!-- .element: class="reference" --> Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.*
 
 #VSLIDE
 #### Policy Advocacy by Non-profit Social Service Agencies
-- Almog-Bar, Michal and Hillel Schmid. 2014. “Advocacy Activities of Nonprofit Human Service Organizations A Critical Review.” *Nonprofit and Voluntary Sector Quarterly* 43(1):11–35. <!-- .element: class="reference" -->
-- DeSantis, Gloria C. 2013. “Policy Advocacy Experiences of Saskatchewan Nonprofit Organizations: Caught between Rocks and Hard Places with Multiple Constituents?” *The Canadian Geographer* 57(4):457–73.<!-- .element: class="reference" -->
-- Schmid, Hillel, Michal Bar, and Ronit Nirel. 2008. “Advocacy Activities in Nonprofit Human Service Organizations Implications for Policy.” *Nonprofit and Voluntary Sector Quarterly* 37(4):581–602.<!-- .element: class="reference" --> 
+-<!-- .element: class="reference" --> Almog-Bar, Michal and Hillel Schmid. 2014. “Advocacy Activities of Nonprofit Human Service Organizations A Critical Review.” *Nonprofit and Voluntary Sector Quarterly* 43(1):11–35.
+-<!-- .element: class="reference" --> DeSantis, Gloria C. 2013. “Policy Advocacy Experiences of Saskatchewan Nonprofit Organizations: Caught between Rocks and Hard Places with Multiple Constituents?” *The Canadian Geographer* 57(4):457–73.
+-<!-- .element: class="reference" --> Schmid, Hillel, Michal Bar, and Ronit Nirel. 2008. “Advocacy Activities in Nonprofit Human Service Organizations Implications for Policy.” *Nonprofit and Voluntary Sector Quarterly* 37(4):581–602.<!-- .element: class="reference" --> 
 
 #VSLIDE
 #### Welfare Rights Movement
-- Bailis, Lawrence Neil. 1974. *Bread or Justice: Grassroots Organizing in the Welfare Rights Movement.* <!-- .element: class="reference" -->
-- Kornbluh, Felicia Ann. 2007. *The Battle for Welfare Rights: Politics and Poverty in Modern America.* <!-- .element: class="reference" -->
-- Nadasen, Premilla. 2005. *Welfare Warriors: The Welfare Rights Movement in the United States.*<!-- .element: class="reference" -->
-- Piven, Frances Fox and Richard A. Cloward. 1979. *Poor People’s Movements: Why They Succeed, How They Fail.*<!-- .element: class="reference" -->
-- Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.<!-- .element: class="reference" -->
+-<!-- .element: class="reference" --> Bailis, Lawrence Neil. 1974. *Bread or Justice: Grassroots Organizing in the Welfare Rights Movement.*
+-<!-- .element: class="reference" --> Kornbluh, Felicia Ann. 2007. *The Battle for Welfare Rights: Politics and Poverty in Modern America.*
+-<!-- .element: class="reference" --> Nadasen, Premilla. 2005. *Welfare Warriors: The Welfare Rights Movement in the United States.*
+-<!-- .element: class="reference" --> Piven, Frances Fox and Richard A. Cloward. 1979. *Poor People’s Movements: Why They Succeed, How They Fail.*
+-<!-- .element: class="reference" --> Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.
 
 #HSLIDE
 ## Methodology
 
 #VSLIDE
-1. Literature Review
-    - Theoretical (key concepts and tensions)<!-- .element: class="fragment" -->
-    - Historical (welfare rights movement)<!-- .element: class="fragment" -->
+### Literature Review
+- Theoretical (key concepts and tensions)<!-- .element: class="fragment" -->
+- Historical (welfare rights movement)<!-- .element: class="fragment" -->
 
 #VSLIDE
-2. Key Informant Interviews
-    - Between 6 and 10 interviews with service providers and management<!-- .element: class="fragment" -->
-    - At least 3 organizations<!-- .element: class="fragment" -->
-    - “self-interview” (Kirby, Greaves, and Reid 2006:135)<!-- .element: class="fragment" -->
+### Key Informant Interviews
+- Between 6 and 10 interviews with service providers and management<!-- .element: class="fragment" -->
+- At least 3 organizations<!-- .element: class="fragment" -->
+- “self-interview” (Kirby, Greaves, and Reid 2006:135)<!-- .element: class="fragment" -->
     
 #HSLIDE
 ## Objectives
@@ -374,13 +374,15 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 ### Prospective Outcomes
-1) Access programs are regressive and antithetical to social justice.<!-- .element: class="fragment" -->
-2) Access programs contribute to individual affirmation and help service users improve their well-being<!-- .element: class="fragment" -->
+- Access programs are regressive and antithetical to social justice.<!-- .element: class="fragment" -->
+
+- Access programs contribute to individual affirmation and help service users improve their well-being<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Prospective Outcomes
-3) In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users<!-- .element: class="fragment" -->
-4) In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system<!-- .element: class="fragment" -->
+- In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users<!-- .element: class="fragment" -->
+
+- In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system<!-- .element: class="fragment" -->
     - Accessibility<!-- .element: class="fragment" -->
     - Equity<!-- .element: class="fragment" -->
     - Generosity<!-- .element: class="fragment" -->
