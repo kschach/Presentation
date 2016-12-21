@@ -319,8 +319,8 @@ the life of a civilised being according to the standards prevailing in the socie
 #VSLIDE
 ### Further Reading
 
-#VSLIDE
-#### Social Justice and Social Work
+#VSLIDE<!-- .element: class="smaller" -->
+#### Social Justice and Social Work<!-- .element: class="smaller" -->
 - Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
 - Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.*
 
@@ -420,20 +420,20 @@ the life of a civilised being according to the standards prevailing in the socie
     <td style="font-size: 0.8em;">Dec 2016 - Mar 2017</td>
   </tr>
   <tr class="fragment smaller">
-    <td>2) Data Collection</td>
-    <td>Mar - April 2017</td>
+    <td style="font-size: 0.8em;">2) Data Collection</td>
+    <td style="font-size: 0.8em;">Mar - Apr 2017</td>
   </tr>
   <tr class="fragment smaller">
-    <td>3) Analysis</td>
-    <td>May - Aug 2017</td>
+    <td style="font-size: 0.8em;">3) Analysis</td>
+    <td style="font-size: 0.8em;">May - Aug 2017</td>
   </tr>
   <tr class="fragment smaller">
-    <td>4) Writing</td>
-    <td>Jan - Dec 2017</td>
+    <td style="font-size: 0.8em;">4) Writing</td>
+    <td style="font-size: 0.8em;">Jan - Dec 2017</td>
   </tr>
   <tr class="fragment smaller">
-    <td>5) Defense and Revisions</td>
-    <td>Dec 2017 - Mar 2018</td>
+    <td style="font-size: 0.8em;">5) Defense and Revisions</td>
+    <td style="font-size: 0.8em;">Dec 2017 - Mar 2018</td>
   </tr>
 </table>
 
