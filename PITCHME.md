@@ -147,11 +147,13 @@ the life of a civilised being according to the standards prevailing in the socie
 - Poor laws / principle of "less eligibility" (Piven and Cloward 1993:34-35)<!-- .element: class="fragment" -->
 - Measures of last resort rather than rights<!-- .element: class="fragment" -->
 
+#VSLIDE
 ### Welfare State as Social Control (Piven and Cloward 1993)
 - Welfare state function to regulate the supply of labour<!-- .element: class="fragment" -->
 - Expansion in response to political turmoil rather than social need<!-- .element: class="fragment" -->
 - Contraction once order and conditions for accumulation are restored<!-- .element: class="fragment" -->
 
+#VSLIDE
 ## Inequalities within the Welfare State
 - Fiscal welfare vs. social welfare (Abramovitz 1983/2001; Titmuss 1965).<!-- .element: class="fragment" -->
 - Social insurance vs. social assistance (Olsen 2002; Gordon 1994)<!-- .element: class="fragment" -->
@@ -160,6 +162,7 @@ the life of a civilised being according to the standards prevailing in the socie
     - More controlling<!-- .element: class="fragment" -->
     - Stigmatized in public discourse<!-- .element: class="fragment" -->
 
+#VSLIDE
 ## Axes of Inequality
 - Gender (Gordon 1994; Piven and Cloward 1993; Abramovitz 1988; Morgen, Acker, and Weight 2009)
 - 'Race' and ethnicity (Piven and Cloward 1993; Quadagno 1994)
@@ -167,7 +170,6 @@ the life of a civilised being according to the standards prevailing in the socie
 - Citizenship status and duration of residency
 
 #VSLIDE
-
 ## Summary
 - Liberal welfare benefits ≠ social citizenship<!-- .element: class="fragment" -->
 - Benefits are insufficient to sustain life<!-- .element: class="fragment" -->
@@ -175,7 +177,6 @@ the life of a civilised being according to the standards prevailing in the socie
 - Structural inequalities endure<!-- .element: class="fragment" -->
 
 #VSLIDE
-
 ### Implications
 - Contribution of non-profit-mediated programs to social justice will vary according to:<!-- .element: class="fragment" -->
     - benefits accessed<!-- .element: class="fragment" -->
@@ -197,6 +198,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Insufficiency of social welfare benefits
 - Guaranteed Annual Income 
 
+#HSLIDE
 ## Socioeconomic Justice through the Shadow State
 
 #VSLIDE
