@@ -149,7 +149,7 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 ### Welfare State as Social Control (Piven and Cloward 1993)
-- Welfare state function to regulate the supply of labour<!-- .element: class="fragment" -->
+- Welfare state function: to regulate the supply of labour<!-- .element: class="fragment" -->
 - Expansion in response to political turmoil rather than social need<!-- .element: class="fragment" -->
 - Contraction once order and conditions for accumulation are restored<!-- .element: class="fragment" -->
 
@@ -378,25 +378,25 @@ the life of a civilised being according to the standards prevailing in the socie
 ## Prospective and Anticipated Outcomes
 
 #VSLIDE
-### Prospective Outcomes
-- Access programs are regressive and antithetical to social justice.<!-- .element: class="fragment" -->
+### Prospective Positions
+-A)  Access programs are regressive and antithetical to social justice.<!-- .element: class="fragment" -->
 
-- Access programs contribute to individual affirmation and help service users improve their well-being<!-- .element: class="fragment" -->
+-B)  Access programs contribute to individual affirmation and help service users improve their well-being.<!-- .element: class="fragment" -->
 
 #VSLIDE
-### Prospective Outcomes
-- In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users<!-- .element: class="fragment" -->
+### Prospective Positions
+-C)  In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users as political agents.<!-- .element: class="fragment" -->
 
-- In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system<!-- .element: class="fragment" -->
+-D)  In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system.<!-- .element: class="fragment" -->
     - Accessibility<!-- .element: class="fragment" -->
-    - Equity<!-- .element: class="fragment" -->
     - Generosity<!-- .element: class="fragment" -->
-
+    - Equity<!-- .element: class="fragment" -->
+    
 #VSLIDE
-### Anticipated Outcomes
+### Hypotheses
 - Non-profit-mediated access programs...
     - follow a strategy of affirmation.<!-- .element: class="fragment" -->
-    - may the most life-valuable intervention strategy available to non-profits seeking to increase community members' incomes<!-- .element: class="fragment" -->
+    - may be the most life-valuable intervention strategy available to non-profits seeking to increase community members' incomes<!-- .element: class="fragment" -->
     - lack the oppositional vision and strategy needed for fundamental transformation of the welfare state.<!-- .element: class="fragment" -->
     - function as an "abeyance structure" (Taylor 1989:762)<!-- .element: class="fragment" -->
 
@@ -405,7 +405,7 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 - Insider position within the field<!-- .element: class="fragment" -->
-- Theoretical investigation rather than empirical evaluation<!-- .element: class="fragment" -->
+- Theoretical inquiry rather than empirical evaluation<!-- .element: class="fragment" -->
 - Examines strategies and processes rather than outcomes<!-- .element: class="fragment" -->
 - Not generalizable because of small, purposive sample, use of semi-structured interviews, and case study approach<!-- .element: class="fragment" -->
 - Service user voices are not included<!-- .element: class="fragment" -->
