@@ -3,10 +3,6 @@
 
 #HSLIDE
 
-## The Field of Non-Profit-Mediated Access to Benefits Programs
-
-#VSLIDE
-
 ## Abstract
 
 #VSLIDE
@@ -15,7 +11,7 @@
 - Investigate the program model employed by non-profit-mediated access to benefits programs
 - Assess the potential for these programs to contribute to socioeconomic justice for financially vulnerable community members<!-- .element: class="fragment" -->
 
-# VSLIDE
+#VSLIDE
 
 ## Methods
 - Literature review<!-- .element: class="fragment" -->
