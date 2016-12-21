@@ -47,11 +47,11 @@
 
 #VSLIDE
 ###Success (Measured in Outputs)
-- Norquay Building CVITP Clinic<!-- .element: class="fragment" -->
+- Norquay Building CVITP Clinic (2016 tax season)<!-- .element: class="fragment" -->
     - < 5 staff, approx. 90 volunteers<!-- .element: class="fragment" -->
     - 9,000 tax returns<!-- .element: class="fragment" -->
     - $21 million in tax refunds and related benefits<!-- .element: class="fragment" -->
-- SEED Winnipeg Access to Benefits program<!-- .element: class="fragment" -->
+- SEED Winnipeg Access to Benefits program (2015/16 fiscal year)<!-- .element: class="fragment" -->
     - 5 staff members<!-- .element: class="fragment" -->
     - 1,046 tax returns<!-- .element: class="fragment" -->
     - $3.5 million in tax refunds and related benefits<!-- .element: class="fragment" -->
