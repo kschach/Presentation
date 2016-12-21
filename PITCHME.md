@@ -234,23 +234,23 @@ the life of a civilised being according to the standards prevailing in the socie
     <th>Phase</th>
     <th>Timeline</th>
   </tr>
-  <tr class="fragment">
+  <tr class="fragment smaller">
     <td>1) Literature Review and Preparation</td>
     <td>Dec 2016 - Mar 2017</td>
   </tr>
-  <tr class="fragment">
+  <tr class="fragment smaller">
     <td>2) Data Collection</td>
     <td>Mar - April 2017</td>
   </tr>
-  <tr class="fragment">
+  <tr class="fragment smaller">
     <td>3) Analysis</td>
     <td>May - Aug 2017</td>
   </tr>
-  <tr class="fragment">
+  <tr class="fragment smaller">
     <td>4) Writing</td>
     <td>Jan - Dec 2017</td>
   </tr>
-  <tr class="fragment">
+  <tr class="fragment smaller">
     <td>5) Defense and Revisions</td>
     <td>Dec 2017 - Mar 2018</td>
   </tr>
@@ -262,7 +262,7 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 
-- Introduction<!-- .element: class="fragment" -->
+- Introduction
 - Methodology<!-- .element: class="fragment" -->
 - Theory<!-- .element: class="fragment" -->
 - Analysis:<!-- .element: class="fragment" -->
