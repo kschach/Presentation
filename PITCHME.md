@@ -1,5 +1,5 @@
-# Redistributive Justice through the Non-profit Sector?<!-- .element: class="fragment" -->
-## Access to Benefits Programs in Winnipeg, MB<!-- .element: class="fragment" -->
+## Redistributive Justice through the Non-profit Sector?<!-- .element: class="fragment" -->
+### Access to Benefits Programs in Winnipeg, MB<!-- .element: class="fragment" -->
 
 #HSLIDE
 
