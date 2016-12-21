@@ -164,13 +164,13 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 ## Axes of Inequality
-- Gender (Gordon 1994; Piven and Cloward 1993; Abramovitz 1988; Morgen, Acker, and Weight 2009)
-- 'Race' and ethnicity (Piven and Cloward 1993; Quadagno 1994)
-- Indigeneity (MacDonald 2011)
-- Citizenship status and duration of residency
+- Gender (Gordon 1994; Piven and Cloward 1993; Abramovitz 1988; Morgen, Acker, and Weigt 2009)<!-- .element: class="fragment" -->
+- 'Race' and ethnicity (Piven and Cloward 1993; Quadagno 1994)<!-- .element: class="fragment" -->
+- Indigeneity (MacDonald 2011)<!-- .element: class="fragment" -->
+- Citizenship status and duration of residency<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Summary
+### Summary
 - Liberal welfare benefits ≠ social citizenship<!-- .element: class="fragment" -->
 - Benefits are insufficient to sustain life<!-- .element: class="fragment" -->
 - Social welfare benefits can subject recipients to disempowering and stigmatizing treatment<!-- .element: class="fragment" -->
@@ -184,6 +184,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Potential for unintended harms resulting from inclusion as benefit recipients<!-- .element: class="fragment" -->
 
 #VSLIDE
+### Implications
 - If increased access is not enough, also need to work for more equitable redistribution
 - What strategies could be effective in pushing the state to assume greater responsibility for social citizenship?<!-- .element: class="fragment" -->
 
@@ -194,6 +195,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Wacquant, Loïc. 2009. *Punishing the Poor: The Neoliberal Government of Social Insecurity.*
 
 #VSLIDE
+### Future Reading
 - Social assistance through Indigenous and Northern Affairs Canada
 - Insufficiency of social welfare benefits
 - Guaranteed Annual Income 
