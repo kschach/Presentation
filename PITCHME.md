@@ -227,7 +227,7 @@ the life of a civilised being according to the standards prevailing in the socie
 ### Drawbacks
 - "philanthropic paternalism" (Salamon 1995)<!-- .element: class="fragment" -->
     - May need to tailor programs to match donor and government priorities rather than local needs<!-- .element: class="fragment" -->
-- "philanthropic particularism" (Salamon)<!-- .element: class="fragment" -->
+- "philanthropic particularism" (Salamon 1995)<!-- .element: class="fragment" -->
     - No universal mandate<!-- .element: class="fragment" -->
     - Can cater to particular demographics, specific geographic areas<!-- .element: class="fragment" -->
 
@@ -267,6 +267,76 @@ the life of a civilised being according to the standards prevailing in the socie
 #HSLIDE
 
 ## Social Change through Social Service
+- What is the relationship between social service and social change?<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Separate Processes
+- Liberal and conservative position (Withorn 1984):<!-- .element: class="fragment" -->
+    - professional<!-- .element: class="fragment" -->
+    - value-neutral<!-- .element: class="fragment" -->
+    - focused on client needs<!-- .element: class="fragment" -->
+    - apolitical<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Separate Processes
+- Radical position <!-- .element: class="fragment" -->
+    - "non-profit industrial complex" (Incite! 2007) <!-- .element: class="fragment" -->
+    - “NGO-ization of resistance” (Roy 2004) <!-- .element: class="fragment" -->
+    - Social control <!-- .element: class="fragment" -->
+    - Co-opting community leaders <!-- .element: class="fragment" -->
+    - Ineffective, individualized approach to addressing broader inequality <!-- .element: class="fragment" -->
+
+#VSLIDE
+### Connecting Social Service and Social Change
+- Parallel activities <!-- .element: class="fragment" -->
+    - Provide services to community members <!-- .element: class="fragment" -->
+    - Advocate for and represent community members in public policy and public discourse <!-- .element: class="fragment" -->
+    - Example: expose hidden fiscal welfare measures (Abramovitz 2001) <!-- .element: class="fragment" -->
+
+
+#VSLIDE
+### Connecting Social Service and Social Change
+- Concurrent activities
+    - Social movement services (Withorn 1984):<!-- .element: class="fragment" -->
+        - Feminist organizations<!-- .element: class="fragment" -->
+        - Civil rights organizations<!-- .element: class="fragment" -->
+        - Labour movement<!-- .element: class="fragment" -->
+        - Anti-poverty programs and welfare rights movement<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Connecting Social Service and Social Change
+- Through collective action <!-- .element: class="fragment" -->
+    - Connecting service providers, service users, and social movements<!-- .element: class="fragment" -->
+    - "mobilizing buffer-zone resources to help people get together" (Kivel 2007:142)<!-- .element: class="fragment" -->
+    - Ground social services within broader social movements (Kivel 2007; Woolford and Curran 2013)
+
+#VSLIDE
+### Implications
+- Do non-profit access to benefits programs integrate social service and social change, or treat them as separate processes?<!-- .element: class="fragment" -->
+- How could access programs become more accountable to grassroots communities of activists and service users?<!-- .element: class="fragment" -->
+- Is it realistic that individualized access to benefits programs could contribute to collective empowerment?<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Futher Reading
+
+#VSLIDE
+#### Social Justice and Social Work
+- Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
+- Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.* 
+
+#VSLIDE
+#### Policy Advocacy by Non-profit Social Service Agencies
+- Almog-Bar, Michal and Hillel Schmid. 2014. “Advocacy Activities of Nonprofit Human Service Organizations A Critical Review.” *Nonprofit and Voluntary Sector Quarterly* 43(1):11–35. 
+- DeSantis, Gloria C. 2013. “Policy Advocacy Experiences of Saskatchewan Nonprofit Organizations: Caught between Rocks and Hard Places with Multiple Constituents?” *The Canadian Geographer* 57(4):457–73.
+- Schmid, Hillel, Michal Bar, and Ronit Nirel. 2008. “Advocacy Activities in Nonprofit Human Service Organizations Implications for Policy.” *Nonprofit and Voluntary Sector Quarterly* 37(4):581–602. 
+
+#VSLIDE
+#### Welfare Rights Movement
+- Bailis, Lawrence Neil. 1974. *Bread or Justice: Grassroots Organizing in the Welfare Rights Movement.* 
+- Kornbluh, Felicia Ann. 2007. *The Battle for Welfare Rights: Politics and Poverty in Modern America.* 
+- Nadasen, Premilla. 2005. *Welfare Warriors: The Welfare Rights Movement in the United States.*
+- Piven, Frances Fox and Richard A. Cloward. 1979. *Poor People’s Movements: Why They Succeed, How They Fail.*
+- Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.
 
 #HSLIDE
 
