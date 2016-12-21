@@ -388,9 +388,9 @@ B)  Access programs contribute to individual affirmation and help service users 
 C)  In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users as political agents.<!-- .element: class="fragment" -->
 
 D)  In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system.<!-- .element: class="fragment" -->
-    - Accessibility<!-- .element: class="fragment" -->
-    - Generosity<!-- .element: class="fragment" -->
-    - Equity<!-- .element: class="fragment" -->
+- Accessibility<!-- .element: class="fragment" -->
+- Generosity<!-- .element: class="fragment" -->
+- Equity<!-- .element: class="fragment" -->
     
 #VSLIDE
 ### Hypotheses
