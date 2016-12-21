@@ -321,8 +321,8 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 #### Social Justice and Social Work
--<!-- .element: class="reference" --> Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
--<!-- .element: class="reference" --> Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.*
+<!-- .element: class="reference" -->- Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
+<!-- .element: class="reference" -->- Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.*
 
 #VSLIDE
 #### Policy Advocacy by Non-profit Social Service Agencies
