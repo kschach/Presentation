@@ -3,10 +3,6 @@
 
 #HSLIDE
 
-## Abstract
-
-#VSLIDE
-
 ## Focus
 - Investigate the program model employed by non-profit-mediated access to benefits programs<!-- .element: class="fragment" -->
 
@@ -20,7 +16,7 @@
 ## Methods
 - Literature review<!-- .element: class="fragment" -->
 
-- Key informant interviews with service providers<!-- .element: class="fragment" -->
+- Key informant interviews with frontline staff and management in Winnipeg, MB<!-- .element: class="fragment" -->
 
 #VSLIDE
 
