@@ -10,3 +10,7 @@
 	margin-bottom: 20px;
 	margin-left: 10px;
 }
+
+.smaller tr {
+	font-size: 0.8em;
+}
