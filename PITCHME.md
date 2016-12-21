@@ -253,11 +253,11 @@ the life of a civilised being according to the standards prevailing in the socie
 #VSLIDE
 #### Extensions and Applications of Wolch's "Shadow State" Concept
 <span style="font-size: 0.6em;">
-- Lake, Robert W. and Kathe Newman. 2002. “Differential Citizenship in the Shadow State.” *GeoJournal* 58(2–3):109–20.
-- Mitchell, Katharyne. 2001. “Transnationalism, Neo-Liberalism, and the Rise of the Shadow State.” *Economy and Society* 30(2):165–89. 
-- Mukhtar, Maria. 2013. *Settlement Service Providers in Peel Region, Ontario: Challenges, Barriers and Opportunities in the Shadow State.* M.A. Thesis, University of Toronto (Canada), Canada.
-- Trudeau, Dan. 2008. “Junior Partner or Empowered Community? The Role of Non-Profit Social Service Providers amidst State Restructuring in the US.” *Urban Studies* 45(13):2805–27. 
-- Trudeau, Dan. 2008. “Towards a Relational View of the Shadow State.” *Political Geography* 27(6):669–90. 
+Lake, Robert W. and Kathe Newman. 2002. “Differential Citizenship in the Shadow State.” *GeoJournal* 58(2–3):109–20.
+Mitchell, Katharyne. 2001. “Transnationalism, Neo-Liberalism, and the Rise of the Shadow State.” *Economy and Society* 30(2):165–89. 
+Mukhtar, Maria. 2013. *Settlement Service Providers in Peel Region, Ontario: Challenges, Barriers and Opportunities in the Shadow State.* M.A. Thesis, University of Toronto (Canada), Canada.
+Trudeau, Dan. 2008. “Junior Partner or Empowered Community? The Role of Non-Profit Social Service Providers amidst State Restructuring in the US.” *Urban Studies* 45(13):2805–27. 
+Trudeau, Dan. 2008. “Towards a Relational View of the Shadow State.” *Political Geography* 27(6):669–90. 
 </span>
 
 #VSLIDE
