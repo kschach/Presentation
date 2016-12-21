@@ -55,7 +55,7 @@
 
 ## Timeline
 
-# VSLIDE
+#VSLIDE
 
 ## Proposed Chapters
 
