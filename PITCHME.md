@@ -25,6 +25,8 @@
 - How can non-profit access to benefits programs contribute to socioeconomic justice?<!-- .element: class="fragment" -->
 - Is government investment in non-profit access to benefits programs a sign of progress towards socioeconomic justice, or evidence of the offloading of public responsibility for social welfare?<!-- .element: class="fragment" -->
 
+#HSLIDE
+
 ## Impetus for the Project
 - Scholarly interests<!-- .element: class="fragment" -->
     - Critical and radical social theory
