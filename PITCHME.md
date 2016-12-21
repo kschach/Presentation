@@ -25,6 +25,15 @@
 - How can non-profit access to benefits programs contribute to socioeconomic justice?<!-- .element: class="fragment" -->
 - Is government investment in non-profit access to benefits programs a sign of progress towards socioeconomic justice, or evidence of the offloading of public responsibility for social welfare?<!-- .element: class="fragment" -->
 
+## Impetus for the Project
+- Scholarly interests<!-- .element: class="fragment" -->
+    - Critical and radical social theory
+    - Egalitarian social change
+    - Non-hegemonic / prefigurative politics
+
+- Social service practice<!-- .element: class="fragment" -->
+    - Financial empowerment programs at SEED Winnipeg
+
 #HSLIDE
 
 ## Key Concepts and Tensions
