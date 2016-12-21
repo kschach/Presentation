@@ -379,15 +379,15 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 ### Prospective Positions
--A)  Access programs are regressive and antithetical to social justice.<!-- .element: class="fragment" -->
+A)  Access programs are regressive and antithetical to social justice.<!-- .element: class="fragment" -->
 
--B)  Access programs contribute to individual affirmation and help service users improve their well-being.<!-- .element: class="fragment" -->
+B)  Access programs contribute to individual affirmation and help service users improve their well-being.<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Prospective Positions
--C)  In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users as political agents.<!-- .element: class="fragment" -->
+C)  In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users as political agents.<!-- .element: class="fragment" -->
 
--D)  In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system.<!-- .element: class="fragment" -->
+D)  In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system.<!-- .element: class="fragment" -->
     - Accessibility<!-- .element: class="fragment" -->
     - Generosity<!-- .element: class="fragment" -->
     - Equity<!-- .element: class="fragment" -->
