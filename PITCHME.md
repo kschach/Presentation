@@ -8,13 +8,15 @@
 #VSLIDE
 
 ## Focus
-- Investigate the program model employed by non-profit-mediated access to benefits programs
+- Investigate the program model employed by non-profit-mediated access to benefits programs<!-- .element: class="fragment" -->
+
 - Assess the potential for these programs to contribute to socioeconomic justice for financially vulnerable community members<!-- .element: class="fragment" -->
 
 #VSLIDE
 
 ## Methods
 - Literature review<!-- .element: class="fragment" -->
+
 - Key informant interviews with service providers<!-- .element: class="fragment" -->
 
 #VSLIDE
@@ -22,19 +24,37 @@
 ## Research Questions
 
 - What is the theory of change underlying non-profit access to benefits programs?<!-- .element: class="fragment" -->
+
 - How can non-profit access to benefits programs contribute to socioeconomic justice?<!-- .element: class="fragment" -->
+
 - Is government investment in non-profit access to benefits programs a sign of progress towards socioeconomic justice, or evidence of the offloading of public responsibility for social welfare?<!-- .element: class="fragment" -->
 
-#HSLIDE
+#VSLIDE
 
 ## Impetus for the Project
 - Scholarly interests<!-- .element: class="fragment" -->
-    - Critical and radical social theory
-    - Egalitarian social change
-    - Non-hegemonic / prefigurative politics
+    - Critical and radical social theory<!-- .element: class="fragment" -->
+    - Egalitarian social change<!-- .element: class="fragment" -->
+    - Non-hegemonic / prefigurative politics<!-- .element: class="fragment" -->
 
 - Social service practice<!-- .element: class="fragment" -->
-    - Financial empowerment programs at SEED Winnipeg
+    - Financial empowerment programs at SEED Winnipeg<!-- .element: class="fragment" -->
+
+#HSLIDE
+
+## The Program Model
+
+#VSLIDE
+
+- The problem
+
+#VSLIDE
+
+- The remedy
+
+#VSLIDE
+
+- Success (outputs)
 
 #HSLIDE
 
