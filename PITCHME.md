@@ -202,8 +202,68 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #HSLIDE
 ## Socioeconomic Justice through the Shadow State
+- Is government and philanthropic investment in non-profit social service provision a promising strategy for increasing access to benefits by financially vulnerable community members?<!-- .element: class="fragment" -->
+- What are the risks and drawbacks of this model?<!-- .element: class="fragment" -->
 
 #VSLIDE
+### Key Concepts
+- "third-party government" (Salamon 1995)<!-- .element: class="fragment" -->
+- "hollow state" (Milward 1994)<!-- .element: class="fragment" -->
+- "offloading" / "devolution"<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Potential Benefits
+- Increased availability of social welfare programs and services<!-- .element: class="fragment" -->
+- Greater opportunities for local control and participation in social services<!-- .element: class="fragment" -->
+- Flexibility to adapt local conditions<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Drawbacks
+- "philanthropic insufficiency" (Salamon 1995)<!-- .element: class="fragment" -->
+    - Non-profit sector has marginal reach and capacity compared to the state<!-- .element: class="fragment" -->
+    - Problems with securing funding without recourse to taxation (via government contracts, philanthropic funding, business activities, user fees)<!-- .element: class="fragment" -->
+- "philanthropic paternalism" (Salamon 1995)<!-- .element: class="fragment" -->
+    - May need to tailor programs to match donor and government priorities rather than local needs<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Drawbacks
+- "philanthropic particularism" (Salamon)<!-- .element: class="fragment" -->
+    - No universal mandate<!-- .element: class="fragment" -->
+    - Can cater to particular demographics, specific geographic areas<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Shadow State
+*a para-state apparatus with collective service responsibilities previously shouldered by the public sector, administered outside democratic politics, but yet controlled in both formal and informal ways by the state.* (Wolch 1989:201)
+
+#VSLIDE
+### Implications
+- Potential benefits of investment in non-profit-mediated access to benefits programs:<!-- .element: class="fragment" -->
+    - cross-sectoral partnerships that leverage the comparative advantages of each sector in service of a common good<!-- .element: class="fragment" -->
+
+#VSLIDE
+###Implications
+- Hazards of devolution:<!-- .element: class="fragment" -->
+    - Could result in reduction in the status of benefits: from entitlement to charitable aid (Wolch 1989; Roy 2004) <!-- .element: class="fragment" -->
+    - "statization" (Wolch 1989:217) and "neoliberalization" (Woolford and Curran 2011:589) of civil society<!-- .element: class="fragment" -->
+    - "bureaucratic disentitlement" (Lipsky 1984)<!-- .element: class="fragment" -->
+
+#VSLIDE
+###Further Reading
+
+#VSLIDE
+#### Extensions and Applications of Wolch's "Shadow State" Concept
+- Lake, Robert W. and Kathe Newman. 2002. “Differential Citizenship in the Shadow State.” *GeoJournal* 58(2–3):109–20.
+- Mitchell, Katharyne. 2001. “Transnationalism, Neo-Liberalism, and the Rise of the Shadow State.” *Economy and Society* 30(2):165–89. 
+- Mukhtar, Maria. 2013. *Settlement Service Providers in Peel Region, Ontario: Challenges, Barriers and Opportunities in the Shadow State.* M.A. Thesis, University of Toronto (Canada), Canada.
+- Trudeau, Dan. 2008. “Junior Partner or Empowered Community? The Role of Non-Profit Social Service Providers amidst State Restructuring in the US.” *Urban Studies* 45(13):2805–27. 
+- Trudeau, Dan. 2008. “Towards a Relational View of the Shadow State.” *Political Geography* 27(6):669–90. 
+
+#VSLIDE
+####Mutual Aid and Community Social Welfare Provision
+Beito, David T. 2003. *From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967.*
+
+
+#HSLIDE
 
 ## Social Change through Social Service
 
