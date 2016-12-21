@@ -45,17 +45,9 @@
 - Lack of access can have severe, negative impacts for those without adequate income prior to government transfers (social and financial exclusion, social determinants of health).<!-- .element: class="fragment" -->
 
 #VSLIDE
-###The Remedy of Access to Benefits Programs
-- Governments, civil society, and the private sector each have a role to play<!-- .element: class="fragment" -->
+###The Remedy: Supported Access
+- Governments, civil society, and the private sector each have a role to play in connecting community members to benefits<!-- .element: class="fragment" -->
 - Non-profit organizations are well-positioned to support financially vulnerable community members<!-- .element: class="fragment" -->
-
-#VSLIDE
-###Access to Benefits Interventions
-- Volunteer income tax preparation (CVITP, VITA)<!-- .element: class="fragment" -->
-- Social assistance and social insurance advocacy<!-- .element: class="fragment" -->
-- Staff-driven access to benefits programs<!-- .element: class="fragment" -->
-    - Individual casework<!-- .element: class="fragment" -->
-    - Building system capacity<!-- .element: class="fragment" -->
 
 #VSLIDE
 ###Success (Measured in Outputs)
@@ -67,11 +59,6 @@
     - 5 staff members<!-- .element: class="fragment" -->
     - 1,046 tax returns<!-- .element: class="fragment" -->
     - $3.5 million in tax refunds and related benefits<!-- .element: class="fragment" -->
-
-#VSLIDE
-###Recent Interest in the Issue
-- Funding opportunities from government agencies and charitable donors<!-- .element: class="fragment" -->
-- Ministerial mandate letter from Prime Minister to Minister of National Revenue (2015)<!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -196,7 +183,6 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 ### Further Reading
-- Social assistance through Indigenous and Northern Affairs Canada
 - Insufficiency of social welfare benefits
 - Guaranteed Annual Income 
 
@@ -460,3 +446,17 @@ D)  In addition to individual affirmation, access programs contribute to social 
 #HSLIDE
 
 ## Discussion
+
+
+#HSLIDE
+###Access to Benefits Interventions
+- Volunteer income tax preparation (CVITP, VITA)<!-- .element: class="fragment" -->
+- Social assistance and social insurance advocacy<!-- .element: class="fragment" -->
+- Staff-driven access to benefits programs<!-- .element: class="fragment" -->
+    - Individual casework<!-- .element: class="fragment" -->
+    - Building system capacity<!-- .element: class="fragment" -->
+ 
+#VSLIDE
+###Recent Interest in the Issue
+- Funding opportunities from government agencies and charitable donors<!-- .element: class="fragment" -->
+- Ministerial mandate letter from Prime Minister to Minister of National Revenue (2015)<!-- .element: class="fragment" -->
