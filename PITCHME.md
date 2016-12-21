@@ -190,9 +190,9 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 ### Further Reading
-- Gough, Ian. 1979. *The Political Economy of the Welfare State.* 
-- Offe, Claus. 1984. *Contradictions of the Welfare State.* 
-- Wacquant, Loïc. 2009. *Punishing the Poor: The Neoliberal Government of Social Insecurity.*
+- Gough, Ian. 1979. *The Political Economy of the Welfare State.*<!-- .element: class="reference" --> 
+- Offe, Claus. 1984. *Contradictions of the Welfare State.*<!-- .element: class="reference" --> 
+- Wacquant, Loïc. 2009. *Punishing the Poor: The Neoliberal Government of Social Insecurity.*<!-- .element: class="reference" -->
 
 #VSLIDE
 ### Further Reading
@@ -252,17 +252,17 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 #### Extensions and Applications of Wolch's "Shadow State" Concept
-- Lake, Robert W. and Kathe Newman. 2002. “Differential Citizenship in the Shadow State.” *GeoJournal* 58(2–3):109–20.
-- Mitchell, Katharyne. 2001. “Transnationalism, Neo-Liberalism, and the Rise of the Shadow State.” *Economy and Society* 30(2):165–89. 
-- Mukhtar, Maria. 2013. *Settlement Service Providers in Peel Region, Ontario: Challenges, Barriers and Opportunities in the Shadow State.* M.A. Thesis, University of Toronto (Canada), Canada.
+- Lake, Robert W. and Kathe Newman. 2002. “Differential Citizenship in the Shadow State.” *GeoJournal* 58(2–3):109–20.<!-- .element: class="reference" -->
+- Mitchell, Katharyne. 2001. “Transnationalism, Neo-Liberalism, and the Rise of the Shadow State.” *Economy and Society* 30(2):165–89.<!-- .element: class="reference" --> 
+- Mukhtar, Maria. 2013. *Settlement Service Providers in Peel Region, Ontario: Challenges, Barriers and Opportunities in the Shadow State.* M.A. Thesis, University of Toronto (Canada), Canada.<!-- .element: class="reference" -->
 
 #VSLIDE
 #### Extensions and Applications of Wolch's "Shadow State" Concept
-- Trudeau, Dan. 2008. “Junior Partner or Empowered Community? The Role of Non-Profit Social Service Providers amidst State Restructuring in the US.” *Urban Studies* 45(13):2805–27. 
-- Trudeau, Dan. 2008. “Towards a Relational View of the Shadow State.” *Political Geography* 27(6):669–90. 
+- Trudeau, Dan. 2008. “Junior Partner or Empowered Community? The Role of Non-Profit Social Service Providers amidst State Restructuring in the US.” *Urban Studies* 45(13):2805–27.<!-- .element: class="reference" --> 
+- Trudeau, Dan. 2008. “Towards a Relational View of the Shadow State.” *Political Geography* 27(6):669–90.<!-- .element: class="reference" --> 
 
 ####Mutual Aid and Community Social Welfare Provision
-- Beito, David T. 2003. *From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967.*
+- Beito, David T. 2003. *From Mutual Aid to the Welfare State: Fraternal Societies and Social Services, 1890-1967.*<!-- .element: class="reference" -->
 
 #HSLIDE
 
@@ -308,7 +308,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Through collective action <!-- .element: class="fragment" -->
     - Connecting service providers, service users, and social movements<!-- .element: class="fragment" -->
     - "mobilizing buffer-zone resources to help people get together" (Kivel 2007:142)<!-- .element: class="fragment" -->
-    - Ground social services within broader social movements (Kivel 2007; Woolford and Curran 2013)
+    - Ground social services within broader social movements (Kivel 2007; Woolford and Curran 2013)<!-- .element: class="fragment" -->
 
 #VSLIDE
 ### Implications
@@ -317,26 +317,26 @@ the life of a civilised being according to the standards prevailing in the socie
 - Is it realistic that individualized access to benefits programs could contribute to collective empowerment?<!-- .element: class="fragment" -->
 
 #VSLIDE
-### Futher Reading
+### Further Reading
 
 #VSLIDE
 #### Social Justice and Social Work
-- Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
-- Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.* 
+- Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*<!-- .element: class="reference" -->
+- Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.* <!-- .element: class="reference" -->
 
 #VSLIDE
 #### Policy Advocacy by Non-profit Social Service Agencies
-- Almog-Bar, Michal and Hillel Schmid. 2014. “Advocacy Activities of Nonprofit Human Service Organizations A Critical Review.” *Nonprofit and Voluntary Sector Quarterly* 43(1):11–35. 
-- DeSantis, Gloria C. 2013. “Policy Advocacy Experiences of Saskatchewan Nonprofit Organizations: Caught between Rocks and Hard Places with Multiple Constituents?” *The Canadian Geographer* 57(4):457–73.
-- Schmid, Hillel, Michal Bar, and Ronit Nirel. 2008. “Advocacy Activities in Nonprofit Human Service Organizations Implications for Policy.” *Nonprofit and Voluntary Sector Quarterly* 37(4):581–602. 
+- Almog-Bar, Michal and Hillel Schmid. 2014. “Advocacy Activities of Nonprofit Human Service Organizations A Critical Review.” *Nonprofit and Voluntary Sector Quarterly* 43(1):11–35. <!-- .element: class="reference" -->
+- DeSantis, Gloria C. 2013. “Policy Advocacy Experiences of Saskatchewan Nonprofit Organizations: Caught between Rocks and Hard Places with Multiple Constituents?” *The Canadian Geographer* 57(4):457–73.<!-- .element: class="reference" -->
+- Schmid, Hillel, Michal Bar, and Ronit Nirel. 2008. “Advocacy Activities in Nonprofit Human Service Organizations Implications for Policy.” *Nonprofit and Voluntary Sector Quarterly* 37(4):581–602.<!-- .element: class="reference" --> 
 
 #VSLIDE
 #### Welfare Rights Movement
-- Bailis, Lawrence Neil. 1974. *Bread or Justice: Grassroots Organizing in the Welfare Rights Movement.* 
-- Kornbluh, Felicia Ann. 2007. *The Battle for Welfare Rights: Politics and Poverty in Modern America.* 
-- Nadasen, Premilla. 2005. *Welfare Warriors: The Welfare Rights Movement in the United States.*
-- Piven, Frances Fox and Richard A. Cloward. 1979. *Poor People’s Movements: Why They Succeed, How They Fail.*
-- Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.
+- Bailis, Lawrence Neil. 1974. *Bread or Justice: Grassroots Organizing in the Welfare Rights Movement.* <!-- .element: class="reference" -->
+- Kornbluh, Felicia Ann. 2007. *The Battle for Welfare Rights: Politics and Poverty in Modern America.* <!-- .element: class="reference" -->
+- Nadasen, Premilla. 2005. *Welfare Warriors: The Welfare Rights Movement in the United States.*<!-- .element: class="reference" -->
+- Piven, Frances Fox and Richard A. Cloward. 1979. *Poor People’s Movements: Why They Succeed, How They Fail.*<!-- .element: class="reference" -->
+- Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.<!-- .element: class="reference" -->
 
 #HSLIDE
 ## Methodology
@@ -348,18 +348,60 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 2. Key Informant Interviews
-    - Between 6 and 10 interviews with service providers and management
-    - At least 3 organizations
+    - Between 6 and 10 interviews with service providers and management<!-- .element: class="fragment" -->
+    - At least 3 organizations<!-- .element: class="fragment" -->
     - “self-interview” (Kirby, Greaves, and Reid 2006:135)<!-- .element: class="fragment" -->
     
 #HSLIDE
 ## Objectives
 
+#VSLIDE
+### Scholarly Objectives
+- To produce:<!-- .element: class="fragment" -->
+    - a descriptive account of the field of non-profit access to benefits programs in Winnipeg<!-- .element: class="fragment" --> 
+    - an analysis of the theory of change and intervention strategies that they employ<!-- .element: class="fragment" -->
+    - an assessment of their potential to contribute to social and economic justice.<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Social Objectives
+- To contribute back to the ongoing development of the field reflexively, by:<!-- .element: class="fragment" -->
+    - investigating best practices implemented elsewhere<!-- .element: class="fragment" -->
+    - researching structural constraints and strategies to address structural constraints<!-- .element: class="fragment" -->
+    - identifying an appropriate role for access to benefits programs within broader movements for redistributive justice<!-- .element: class="fragment" -->
+
 #HSLIDE
-## Anticipated Outcomes
+## Prospective and Anticipated Outcomes
+
+#VSLIDE
+### Prospective Outcomes
+1) Access programs are regressive and antithetical to social justice.<!-- .element: class="fragment" -->
+2) Access programs contribute to individual affirmation and help service users improve their well-being<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Prospective Outcomes
+3) In addition to individual affirmation, access programs contribute to broader social transformation by empowering service users<!-- .element: class="fragment" -->
+4) In addition to individual affirmation, access programs contribute to social transformation by securing structural changes in the welfare system<!-- .element: class="fragment" -->
+    - Accessibility<!-- .element: class="fragment" -->
+    - Equity<!-- .element: class="fragment" -->
+    - Generosity<!-- .element: class="fragment" -->
+
+#VSLIDE
+### Anticipated Outcomes
+- Non-profit-mediated access programs...
+    - follow a strategy of affirmation.<!-- .element: class="fragment" -->
+    - may the most life-valuable intervention strategy available to non-profits seeking to increase community members' incomes<!-- .element: class="fragment" -->
+    - lack the oppositional vision and strategy needed for fundamental transformation of the welfare state.<!-- .element: class="fragment" -->
+    - function as an "abeyance structure" (Taylor 1989:762)
 
 #HSLIDE
 ## Limitations
+
+#VSLIDE
+- Insider position within the field<!-- .element: class="fragment" -->
+- Theoretical investigation rather than empirical evaluation<!-- .element: class="fragment" -->
+- Examines strategies and processes rather than outcomes<!-- .element: class="fragment" -->
+- Not generalizable because of small, purposive sample, use of semi-structured interviews, and case study approach<!-- .element: class="fragment" -->
+- Service user voices are not included<!-- .element: class="fragment" -->
 
 #HSLIDE
 ## Work Plan
