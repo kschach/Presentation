@@ -239,7 +239,7 @@ the life of a civilised being according to the standards prevailing in the socie
     <td>Dec 2016 - Mar 2017</td>
   </tr>
   <tr class="fragment">
-    <td>2) Primary Research Data Collection</td>
+    <td>2) Data Collection</td>
     <td>Mar - April 2017</td>
   </tr>
   <tr class="fragment">
@@ -259,6 +259,9 @@ the life of a civilised being according to the standards prevailing in the socie
 #VSLIDE
 
 ## Proposed Chapters
+
+#VSLIDE
+
 - Introduction<!-- .element: class="fragment" -->
 - Methodology<!-- .element: class="fragment" -->
 - Theory<!-- .element: class="fragment" -->
