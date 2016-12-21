@@ -321,22 +321,22 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 #### Social Justice and Social Work
-<!-- .element: class="reference" -->- Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
-<!-- .element: class="reference" -->- Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.*
+- Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
+- Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.*
 
 #VSLIDE
 #### Policy Advocacy by Non-profit Social Service Agencies
--<!-- .element: class="reference" --> Almog-Bar, Michal and Hillel Schmid. 2014. “Advocacy Activities of Nonprofit Human Service Organizations A Critical Review.” *Nonprofit and Voluntary Sector Quarterly* 43(1):11–35.
--<!-- .element: class="reference" --> DeSantis, Gloria C. 2013. “Policy Advocacy Experiences of Saskatchewan Nonprofit Organizations: Caught between Rocks and Hard Places with Multiple Constituents?” *The Canadian Geographer* 57(4):457–73.
--<!-- .element: class="reference" --> Schmid, Hillel, Michal Bar, and Ronit Nirel. 2008. “Advocacy Activities in Nonprofit Human Service Organizations Implications for Policy.” *Nonprofit and Voluntary Sector Quarterly* 37(4):581–602.<!-- .element: class="reference" --> 
+- Almog-Bar, Michal and Hillel Schmid. 2014. “Advocacy Activities of Nonprofit Human Service Organizations A Critical Review.” *Nonprofit and Voluntary Sector Quarterly* 43(1):11–35.
+- DeSantis, Gloria C. 2013. “Policy Advocacy Experiences of Saskatchewan Nonprofit Organizations: Caught between Rocks and Hard Places with Multiple Constituents?” *The Canadian Geographer* 57(4):457–73.
+- Schmid, Hillel, Michal Bar, and Ronit Nirel. 2008. “Advocacy Activities in Nonprofit Human Service Organizations Implications for Policy.” *Nonprofit and Voluntary Sector Quarterly* 37(4):581–602.
 
 #VSLIDE
 #### Welfare Rights Movement
--<!-- .element: class="reference" --> Bailis, Lawrence Neil. 1974. *Bread or Justice: Grassroots Organizing in the Welfare Rights Movement.*
--<!-- .element: class="reference" --> Kornbluh, Felicia Ann. 2007. *The Battle for Welfare Rights: Politics and Poverty in Modern America.*
--<!-- .element: class="reference" --> Nadasen, Premilla. 2005. *Welfare Warriors: The Welfare Rights Movement in the United States.*
--<!-- .element: class="reference" --> Piven, Frances Fox and Richard A. Cloward. 1979. *Poor People’s Movements: Why They Succeed, How They Fail.*
--<!-- .element: class="reference" --> Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.
+- Bailis, Lawrence Neil. 1974. *Bread or Justice: Grassroots Organizing in the Welfare Rights Movement.*
+- Kornbluh, Felicia Ann. 2007. *The Battle for Welfare Rights: Politics and Poverty in Modern America.*
+- Nadasen, Premilla. 2005. *Welfare Warriors: The Welfare Rights Movement in the United States.*
+- Piven, Frances Fox and Richard A. Cloward. 1979. *Poor People’s Movements: Why They Succeed, How They Fail.*
+- Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.
 
 #HSLIDE
 ## Methodology
@@ -416,8 +416,8 @@ the life of a civilised being according to the standards prevailing in the socie
     <th>Timeline</th>
   </tr>
   <tr class="fragment smaller">
-    <td>1) Literature Review and Preparation</td>
-    <td>Dec 2016 - Mar 2017</td>
+    <td style="font-size: 0.8em;">1) Literature Review and Preparation</td>
+    <td style="font-size: 0.8em;">Dec 2016 - Mar 2017</td>
   </tr>
   <tr class="fragment smaller">
     <td>2) Data Collection</td>
