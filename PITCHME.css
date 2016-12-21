@@ -11,6 +11,9 @@
 	margin-left: 10px;
 }
 
+.reveal .reference li {
+	font-size: 0.8em;
+}
 .reveal .smaller tr {
 	font-size: 0.8em;
 }
