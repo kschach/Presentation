@@ -1,5 +1,5 @@
-## Redistributive Justice through the Non-profit Sector?
-### Access to Benefits Programs in Winnipeg, MB
+# Redistributive Justice through the Non-profit Sector?<!-- .element: class="fragment" -->
+## Access to Benefits Programs in Winnipeg, MB<!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -11,6 +11,9 @@
 - Investigate the program model employed by non-profit-mediated access to benefits programs<!-- .element: class="fragment" -->
 
 - Assess the potential for these programs to contribute to socioeconomic justice for financially vulnerable community members<!-- .element: class="fragment" -->
+
+- Problematize government investment in non-profit-mediated access to benefits programs<!-- .element: class="fragment" -->
+
 
 #VSLIDE
 
@@ -39,7 +42,8 @@
 ###The Problem
 - A variety of welfare state benefits are targeted to residents living on low incomes.<!-- .element: class="fragment" -->
 - Low-income community members face systemic barriers that prevent access to these entitlements (Shillington 2011).<!-- .element: class="fragment" -->
-- Lack of access to benefits can have severe negative impacts for those without adequate income prior to government transfers (social and financial inclusion, social determinants of health).<!-- .element: class="fragment" -->
+- Trend towards "bureaucratic disentitlement" (Lipsky 1984)
+- Lack of access can have severe, negative impacts for those without adequate income prior to government transfers (social and financial exclusion, social determinants of health).<!-- .element: class="fragment" -->
 
 #VSLIDE
 ###The Remedy of Access to Benefits Programs
@@ -51,6 +55,8 @@
 - Volunteer income tax preparation (CVITP, VITA)<!-- .element: class="fragment" -->
 - Social assistance and social insurance advocacy<!-- .element: class="fragment" -->
 - Staff-driven access to benefits programs<!-- .element: class="fragment" -->
+    - Individual casework<!-- .element: class="fragment" -->
+    - Building system capacity<!-- .element: class="fragment" -->
 
 #VSLIDE
 ###Success (Measured in Outputs)
@@ -66,7 +72,7 @@
 #VSLIDE
 ###Recent Interest in the Issue
 - Funding opportunities from government agencies and charitable donors<!-- .element: class="fragment" -->
-- Ministerial mandate letter to Minister of National Revenue<!-- .element: class="fragment" -->
+- Ministerial mandate letter from Prime Minister to Minister of National Revenue (2015)<!-- .element: class="fragment" -->
 
 #HSLIDE
 
@@ -106,12 +112,17 @@
 - Need to develop a nuanced perspective that recognizes:<!-- .element: class="fragment" -->
     - Common socioeconomic injustice: poverty, lack of access to benefits<!-- .element: class="fragment" -->
     - Particular experiences vary with identity position / social location<!-- .element: class="fragment" -->
+
+#VSLIDE
+###Implications
 - Which strategies are employed by non-profit access to benefits programs (affirmation / transformation)?<!-- .element: class="fragment" -->
 - Are access to benefits programs the most life-valuable alternative available to non-profits?<!-- .element: class="fragment" --> 
 
 #VSLIDE
 ###Further Reading
-- Delve deeper into Noonan (2012)
+- Delve deeper into Noonan (2012)<!-- .element: class="fragment" --> 
+- Open to other suggestions<!-- .element: class="fragment" --> 
+- But cautious to not get too immersed in theories of social justice / social change<!-- .element: class="fragment" --> 
 
 #HSLIDE
 ## Socioeconomic Justice through the Welfare State
