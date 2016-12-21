@@ -229,37 +229,29 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 
-### Timeline
-
 <table>
   <tr>
     <th>Phase</th>
-    <th>Description</th> 
     <th>Timeline</th>
   </tr>
   <tr class="fragment">
-    <td>1</td>
-    <td>Literature Review and Preparation</td>
+    <td>1) Literature Review and Preparation</td>
     <td>Dec 2016 - Mar 2017</td>
   </tr>
   <tr class="fragment">
-    <td>2</td>
-    <td>Primary Research Data Collection</td>
+    <td>2) Primary Research Data Collection</td>
     <td>Mar - April 2017</td>
   </tr>
   <tr class="fragment">
-    <td>3</td>
-    <td>Analysis</td>
+    <td>3) Analysis</td>
     <td>May - Aug 2017</td>
   </tr>
   <tr class="fragment">
-    <td>4</td>
-    <td>Writing</td>
+    <td>4) Writing</td>
     <td>Jan - Dec 2017</td>
   </tr>
   <tr class="fragment">
-    <td>5</td>
-    <td>Defense and Revisions</td>
+    <td>5) Defense and Revisions</td>
     <td>Dec 2017 - Mar 2018</td>
   </tr>
 </table>
@@ -267,17 +259,14 @@ the life of a civilised being according to the standards prevailing in the socie
 #VSLIDE
 
 ## Proposed Chapters
-
-#VSLIDE
-
-– Introduction<!-- .element: class="fragment" -->
-– Methodology<!-- .element: class="fragment" -->
-– Theory<!-- .element: class="fragment" -->
-– Analysis:<!-- .element: class="fragment" -->
+- Introduction<!-- .element: class="fragment" -->
+- Methodology<!-- .element: class="fragment" -->
+- Theory<!-- .element: class="fragment" -->
+- Analysis:<!-- .element: class="fragment" -->
     - The field of non-profit-mediated access to benefits programs in Winnipeg<!-- .element: class="fragment" -->
-    – Theory of change<!-- .element: class="fragment" -->
+    - Theory of change<!-- .element: class="fragment" -->
     - Contribution to redistributive justice<!-- .element: class="fragment" -->
-– Discussion and conclusion<!-- .element: class="fragment" -->
+- Discussion and conclusion<!-- .element: class="fragment" -->
 
 #HSLIDE
 
