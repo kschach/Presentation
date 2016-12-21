@@ -154,7 +154,7 @@ the life of a civilised being according to the standards prevailing in the socie
 - Contraction once order and conditions for accumulation are restored<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Inequalities within the Welfare State
+### Inequalities within the Welfare State
 - Fiscal welfare vs. social welfare (Abramovitz 1983/2001; Titmuss 1965).<!-- .element: class="fragment" -->
 - Social insurance vs. social assistance (Olsen 2002; Gordon 1994)<!-- .element: class="fragment" -->
 - The latter are:<!-- .element: class="fragment" -->
@@ -163,7 +163,7 @@ the life of a civilised being according to the standards prevailing in the socie
     - Stigmatized in public discourse<!-- .element: class="fragment" -->
 
 #VSLIDE
-## Axes of Inequality
+### Axes of Inequality
 - Gender (Gordon 1994; Piven and Cloward 1993; Abramovitz 1988; Morgen, Acker, and Weigt 2009)<!-- .element: class="fragment" -->
 - 'Race' and ethnicity (Piven and Cloward 1993; Quadagno 1994)<!-- .element: class="fragment" -->
 - Indigeneity (MacDonald 2011)<!-- .element: class="fragment" -->
@@ -189,13 +189,13 @@ the life of a civilised being according to the standards prevailing in the socie
 - What strategies could be effective in pushing the state to assume greater responsibility for social citizenship?<!-- .element: class="fragment" -->
 
 #VSLIDE
-### Future Reading
+### Further Reading
 - Gough, Ian. 1979. *The Political Economy of the Welfare State.* 
 - Offe, Claus. 1984. *Contradictions of the Welfare State.* 
 - Wacquant, Loïc. 2009. *Punishing the Poor: The Neoliberal Government of Social Insecurity.*
 
 #VSLIDE
-### Future Reading
+### Further Reading
 - Social assistance through Indigenous and Northern Affairs Canada
 - Insufficiency of social welfare benefits
 - Guaranteed Annual Income 
@@ -229,11 +229,55 @@ the life of a civilised being according to the standards prevailing in the socie
 
 #VSLIDE
 
-## Timeline
+### Timeline
+
+<table>
+  <tr>
+    <th>Phase</th>
+    <th>Description</th> 
+    <th>Timeline</th>
+  </tr>
+  <tr class="fragment">
+    <td>1</td>
+    <td>Literature Review and Preparation</td>
+    <td>Dec 2016 - Mar 2017</td>
+  </tr>
+  <tr class="fragment">
+    <td>2</td>
+    <td>Primary Research Data Collection</td>
+    <td>Mar - April 2017</td>
+  </tr>
+  <tr class="fragment">
+    <td>3</td>
+    <td>Analysis</td>
+    <td>May - Aug 2017</td>
+  </tr>
+  <tr class="fragment">
+    <td>4</td>
+    <td>Writing</td>
+    <td>Jan - Dec 2017</td>
+  </tr>
+  <tr class="fragment">
+    <td>5</td>
+    <td>Defense and Revisions</td>
+    <td>Dec 2017 - Mar 2018</td>
+  </tr>
+</table>
 
 #VSLIDE
 
 ## Proposed Chapters
+
+#VSLIDE
+
+– Introduction<!-- .element: class="fragment" -->
+– Methodology<!-- .element: class="fragment" -->
+– Theory<!-- .element: class="fragment" -->
+– Analysis:<!-- .element: class="fragment" -->
+    - The field of non-profit-mediated access to benefits programs in Winnipeg<!-- .element: class="fragment" -->
+    – Theory of change<!-- .element: class="fragment" -->
+    - Contribution to redistributive justice<!-- .element: class="fragment" -->
+– Discussion and conclusion<!-- .element: class="fragment" -->
 
 #HSLIDE
 
