@@ -339,23 +339,29 @@ the life of a civilised being according to the standards prevailing in the socie
 - Piven, Frances Fox and Richard A. Cloward. 2011. “The Weight of the Poor: A Strategy to End Poverty (Reprinted with a New Introduction by Frances Fox Piven).” *New Political Science* 33(3):271–84.
 
 #HSLIDE
-
 ## Methodology
 
-#HSLIDE
+#VSLIDE
+1. Literature Review
+    - Theoretical (key concepts and tensions)<!-- .element: class="fragment" -->
+    - Historical (welfare rights movement)<!-- .element: class="fragment" -->
 
+#VSLIDE
+2. Key Informant Interviews
+    - Between 6 and 10 interviews with service providers and management
+    - At least 3 organizations
+    - “self-interview” (Kirby, Greaves, and Reid 2006:135)<!-- .element: class="fragment" -->
+    
+#HSLIDE
 ## Objectives
 
 #HSLIDE
-
 ## Anticipated Outcomes
 
 #HSLIDE
-
 ## Limitations
 
 #HSLIDE
-
 ## Work Plan
 
 #VSLIDE
