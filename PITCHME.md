@@ -395,9 +395,9 @@ D)  In addition to individual affirmation, access programs contribute to social 
 #VSLIDE
 ### Hypotheses
 - Non-profit-mediated access programs...
-    - follow a strategy of affirmation.<!-- .element: class="fragment" -->
+    - follow a strategy of affirmation<!-- .element: class="fragment" -->
     - may be the most life-valuable intervention strategy available to non-profits seeking to increase community members' incomes<!-- .element: class="fragment" -->
-    - lack the oppositional vision and strategy needed for fundamental transformation of the welfare state.<!-- .element: class="fragment" -->
+    - lack the oppositional vision and strategy needed for fundamental transformation of the welfare state<!-- .element: class="fragment" -->
     - function as an "abeyance structure" (Taylor 1989:762)<!-- .element: class="fragment" -->
 
 #HSLIDE
