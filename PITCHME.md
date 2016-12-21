@@ -89,7 +89,7 @@
 
 #VSLIDE
 
-## Socioeconomic Justice
+##Socioeconomic Justice
 - What is socioeconomic justice?<!-- .element: class="fragment" -->
 - How can it be attained?<!-- .element: class="fragment" -->
 
@@ -108,6 +108,7 @@
     - Intrinsic: development and enjoyment of human capacities<!-- .element: class="fragment" -->
 
 #VSLIDE
+###Noonan (2012)
 - Transformation from a system based on money-value to one based on life-value<!-- .element: class="fragment" -->
 - Life-valuable political practice in the here-and-now<!-- .element: class="fragment" -->
     - “the struggle to build a new society is rooted in the life-valuable side of existing social institutions” (Noonan 2012:216)
@@ -119,7 +120,7 @@
     - Particular experiences vary with identity position / social location<!-- .element: class="fragment" -->
 
 #VSLIDE
-- Which strategies are employed by non-profit access to benefits programs (affirmation / transformation)?<!-- .element: class="fragment" -->
+- Which strategies are employed by non-profit access to benefits programs (affirmation / transformation)?
 - Are access to benefits programs the most life-valuable alternative available to non-profits?<!-- .element: class="fragment" --> 
 
 #VSLIDE
@@ -140,6 +141,7 @@
 - "the right to share to the full in the social heritage and to live
 the life of a civilised being according to the standards prevailing in the society" (1950:11)<!-- .element: class="fragment" -->
 
+#VSLIDE
 ### Liberal Welfare State
 - Does not grant and protect the rights of social citizenship<!-- .element: class="fragment" -->
 - Poor laws / principle of "less eligibility" (Piven and Cloward 1993:34-35)<!-- .element: class="fragment" -->
