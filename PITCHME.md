@@ -319,7 +319,7 @@ the life of a civilised being according to the standards prevailing in the socie
 #VSLIDE
 ### Further Reading
 
-#VSLIDE<!-- .element: class="smaller" -->
+#VSLIDE
 #### Social Justice and Social Work<!-- .element: class="smaller" -->
 - Finn, Janet L. and Maxine Jacobson. 2008. *Just Practice: A Social Justice Approach to Social Work.*
 - Mullaly, Robert P. 1997. *Structural Social Work: Ideology, Theory, and Practice.*
